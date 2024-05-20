@@ -15,5 +15,9 @@
 3. Ransom Note ✅ (Date: 15th May, 2024)
    - [Problem Statement](https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150)
    - [My Submission](https://github.com/shivliagrawal/LeetCode_150Interview/blob/main/RansomNote.cpp)
+
+4. Maximum depth of Binary Tree ✅ (Date: 17th May, 2024)
+   - [Problem Statement](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150)
+   - [My Submission](https://github.com/shivliagrawal/LeetCode_150Interview/blob/main/RansomNote.cpp)
      
 
