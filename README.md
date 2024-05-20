@@ -9,8 +9,7 @@
 2. Merge Sorted Arrays ✅ (Date: 13th May, 2024)
    - [Problem Statement](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
    - [My Submission](https://github.com/shivliagrawal/LeetCode_150Interview/blob/main/MergeSortedArray.cpp)
-     
-   In array sorting, sometimes sorting from the last element is also optimal.
+  > In array sorting, sometimes sorting from the last element is also optimal.
 
 3. Ransom Note ✅ (Date: 15th May, 2024)
    - [Problem Statement](https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150)
@@ -18,8 +17,9 @@
 
 4. Maximum depth of Binary Tree ✅ (Date: 17th May, 2024)
    - [Problem Statement](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150)
-   - [My Submission](https://github.com/shivliagrawal/LeetCode_150Interview/blob/main/MaxDepthBT.cpp)
-  
-   Use recursion.
+   - [My Submission](https://github.com/shivliagrawal/LeetCode_150Interview/blob/main/MaxDepthBT.cpp)  
+   > Use recursion.
      
-
+5. Average of Levels in Binary Tree ✅ (Date: 19th May, 2024)
+   - [Problem Statement](https://leetcode.com/problems/average-of-levels-in-binary-tree/?envType=study-plan-v2&envId=top-interview-150)
+   - [My Submission]()
