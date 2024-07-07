@@ -23,3 +23,7 @@
 5. Average of Levels in Binary Tree ✅ (Date: 19th May, 2024)
    - [Problem Statement](https://leetcode.com/problems/average-of-levels-in-binary-tree/?envType=study-plan-v2&envId=top-interview-150)
    - [My Submission]()
+
+6. Isomorphic Strings ✅ (Date: 7th July, 2024)
+   - [Problem Statement](https://leetcode.com/problems/isomorphic-strings/description/?envType=study-plan-v2&envId=top-interview-150)
+   - [My Submission]()
