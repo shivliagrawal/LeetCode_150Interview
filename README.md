@@ -27,3 +27,8 @@
 6. Isomorphic Strings ✅ (Date: 7th July, 2024)
    - [Problem Statement](https://leetcode.com/problems/isomorphic-strings/description/?envType=study-plan-v2&envId=top-interview-150)
    - [My Submission](https://github.com/shivliagrawal/LeetCode_150Interview/blob/main/isomorphicStrings.cpp)
+
+7. Count complete Tree Nodes ✅ (Date: 7th July, 2024)
+   - [Problem Statement](https://leetcode.com/problems/count-complete-tree-nodes/description/?envType=study-plan-v2&envId=top-interview-150)
+   - [My Submission](https://github.com/shivliagrawal/LeetCode_150Interview/blob/main/isomorphicStrings.cpp)
+
